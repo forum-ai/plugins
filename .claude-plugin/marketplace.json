@@ -1,0 +1,18 @@
+{
+  "name": "forum-ai",
+  "owner": {
+    "name": "FORUM-AI development team",
+    "email": "FORUM-AI@lbl.gov"
+  },
+  "description": "Plugins from the FORUM-AI team: AI-app access to scientific data and tools",
+  "plugins": [
+    {
+      "name": "mp-mcp",
+      "source": {
+        "source": "github",
+        "repo": "forum-ai/mp-mcp"
+      },
+      "description": "Live Materials Project data in Claude Code: every MP API endpoint, band structures, DOS, phonons, phase diagrams and MP's documentation, with a skill that knows which call answers which materials question"
+    }
+  ]
+}
