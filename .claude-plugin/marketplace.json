@@ -10,7 +10,9 @@
       "name": "mp-mcp",
       "source": {
         "source": "github",
-        "repo": "forum-ai/mp-mcp"
+        "repo": "forum-ai/mp-mcp",
+        "ref": "v0.4.0",
+        "sha": "efc702aca657902f0fbc4086bb8bc1465a56f630"
       },
       "description": "Live Materials Project data in Claude Code: every MP API endpoint, band structures, DOS, phonons, phase diagrams and MP's documentation, with a skill that knows which call answers which materials question"
     }

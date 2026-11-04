@@ -7,7 +7,7 @@ Plugins from the FORUM-AI team for AI apps. Add this list to your app once, then
 <!-- plugins:start -->
 | Plugin | What it does | Version | Install name |
 |---|---|---|---|
-| [Materials Project](https://github.com/forum-ai/mp-mcp) | Live Materials Project data in Claude Code: every MP API endpoint, band structures, DOS, phonons, phase diagrams and MP's documentation, with a skill that knows which call answers which materials question | 0.4.0 (unreleased) | `mp-mcp@forum-ai` |
+| [Materials Project](https://github.com/forum-ai/mp-mcp) | Live Materials Project data in Claude Code: every MP API endpoint, band structures, DOS, phonons, phase diagrams and MP's documentation, with a skill that knows which call answers which materials question | v0.4.0 | `mp-mcp@forum-ai` |
 <!-- plugins:end -->
 
 Each plugin's own page, linked in the table, says what you need before you start, such as an API key.
